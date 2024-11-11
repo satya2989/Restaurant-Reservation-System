@@ -1,0 +1,34 @@
+.restaurant-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.restaurant-card h3 {
+    margin: 0;
+    color: #007bff;
+    cursor: pointer;
+}
+
+.restaurant-card p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.menu {
+    margin-top: 20px;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu li {
+    margin: 5px 0;
+    color: #333;
+}
